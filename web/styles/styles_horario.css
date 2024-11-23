@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header h1{
+    padding-top: 0;
+    color: green;
+}
+
+nav{
+    background-color: green;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue;
+    padding-left: 1vw;
+
+}
+#content{
+    height: 58vh;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    height: 10vh;
+}
+table{
+    margin: auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin-top:5px ;
+    margin-bottom:5px ;
+
+    font-family: "Comic Neue", cursive;
+    
+}
+td, th, tr{
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    -moz-border-radius: 20px;
+}
+
+#cabecera{
+    background-color:#0CABA8;
+    font-size: large;
+}
+
+.hora{
+    background-color:#0CABA8;
+}
+
+.dia{
+    background-color: #038C3E;
+}
+
+.programacion{
+    background-color: #FFAE00;
+}
+
+.fol{
+    background-color:#870d92 ;
+}
+.base{
+    background-color: #9FC131;
+}
+.sistemas{
+    background-color: #E1523D;
+}
+.marcas{
+    background-color: #583adf;
+}
+.entornos{
+    background-color: #F5F98B;
+}
+#sostenibilidad{
+    background-color: #e74ae7;
+}
+#digitallizacion{
+    background-color: #25c796;
+
+}
+#recreo{
+    background-color:#038C3E;
+    letter-spacing: 40px;
+    font-size: large;
+    font-weight: bold;
+
+}
