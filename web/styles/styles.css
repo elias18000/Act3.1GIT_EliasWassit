@@ -2,7 +2,11 @@
     padding: 0;
     margin: 0;
 }
-
+img {
+    max-height: 400px;
+    max-width: 400px;
+    margin: 30px 60px 0px 60px;
+}
 header h1{
     padding-top: 0;
     color: green;
